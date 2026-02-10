@@ -1,0 +1,18 @@
+[14444:24248:0210/155003.167:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14444:33404:0210/155003.299:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14444:24248:0210/155003.314:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14444:24248:0210/155007.830:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[30796:10592:0210/155010.604:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CAE6F186C948100FCC4DD6CABCB8297A will be ignored
+[35288:15264:0210/155011.604:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-8B9A441D35DE1A0713EE3F52471A0CAE will be ignored
+[28736:21752:0210/155011.939:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19972:27676:0210/155012.314:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 11
+[14444:21896:0210/155012.604:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[14444:24248:0210/155013.598:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[14444:24248:0210/155013.599:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[14444:24248:0210/155013.599:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[14444:24248:0210/155013.599:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[14444:21896:0210/155013.604:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,9]
+[28736:21752:0210/155227.337:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[28736:21752:0210/155227.338:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[16048:27476:0210/155714.719:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-69153E3EF7C001513EC8F364F41F6546 will be ignored
+[14444:24248:0210/155714.831:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
